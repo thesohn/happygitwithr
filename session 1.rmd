@@ -1,0 +1,33 @@
+---
+title: "Instructions for Git and RStudio"
+author: "Anthony Sohn"
+date: "June 27, 2016"
+output: html_document
+---
+
+**Git project on Rstudio**
+file -> new project -> version control -> git -> input repository url
+
+Side note: help -> markdown quick 
+
+commit (two stage process: 1. stage, 2. commit)
+diff (shows changes made)
+
+in git repository: 
+
+.Rproj files usually describe how projects are organized
+.gitignore explains which files to ignore...?
+
+add collaborator: setting -> collaborators
+
+pull (get recent file version from github repository)
+
+note: incremental progress reward with incremental success after success.
+
+title: "hello"
+author: "Anthony Sohn"
+date: "June 27, 2016"
+output: (html)_document change to (github or word)
+
+
+change output: html to github or word
